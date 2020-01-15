@@ -1,0 +1,119 @@
+{
+    "States":[
+      {
+         "naam":"Alabama",
+         "car_crash": 784,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Alaska",
+         "car_crash": 60,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Arizona",
+         "car_crash": 811,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Arkansas",
+         "car_crash": 491,
+	 "plane_crash" 
+      },
+      {
+         "naam":"California",
+         "car_crash": 3123,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Colorado",
+         "car_crash": 507,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Connecticut",
+         "car_crash": 257,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Delaware",
+         "car_crash": 127,
+	 "plane_crash" 
+      },
+      {
+         "naam":"District of Columbia",
+         "car_crash": 23,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Alabama",
+         "car_crash": 784,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Alabama",
+         "car_crash": 784,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Alabama",
+         "car_crash": 784,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Alabama",
+         "car_crash": 784,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Alabama",
+         "car_crash": 784,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Alabama",
+         "car_crash": 784,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Alabama",
+         "car_crash": 784,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Alabama",
+         "car_crash": 784,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Alabama",
+         "car_crash": 784,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Alabama",
+         "car_crash": 784,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Alabama",
+         "car_crash": 784,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Alabama",
+         "car_crash": 784,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Alabama",
+         "car_crash": 784,
+	 "plane_crash" 
+      },
+      {
+         "naam":"Alabama",
+         "car_crash": 784,
+	 "plane_crash" 
+      },
+    ]
+}
